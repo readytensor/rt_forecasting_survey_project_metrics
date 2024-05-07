@@ -1,0 +1,121 @@
+dataset_name,dataset_id,frequency,forecast_length,source_dataset_id,dataset_variation
+Air Quality KDD 2018 Ratio 2x,air_quality_kdd_2018_ratio_2,HOURLY,72,air_quality_kdd_2018,ratio_2
+Airline Passengers Ratio 2x,airline_passengers_ratio_2,MONTHLY,12,airline_passengers,ratio_2
+Atmospheric CO2 Concentrations Ratio 2x,atmospheric_co2_concentrations_ratio_2,MONTHLY,12,atmospheric_co2_concentrations,ratio_2
+Australian Beer Production Ratio 2x,australian_beer_production_ratio_2,QUARTERLY,8,australian_beer_production,ratio_2
+Avocado Sales Ratio 2x,avocado_sales_ratio_2,WEEKLY,13,avocado_sales,ratio_2
+Bank Branch Transactions Ratio 2x,bank_branch_transactions_ratio_2,WEEKLY,13,bank_branch_transactions,ratio_2
+Climate Related Disasters Frequency Ratio 2x,climate_related_disasters_ratio_2,YEARLY,3,climate_related_disasters,ratio_2
+Daily Stock Prices  Ratio 2x,daily_stock_prices_ratio_2,DAILY,28,daily_stock_prices,ratio_2
+Weekly Weather in 26 World Cities Ratio 2x,weekly_weather_ratio_2,WEEKLY,13,weekly_weather,ratio_2
+GDP per Capita Change Ratio 2x,gdp_per_capita_growth_ratio_2,YEARLY,3,gdp_per_capita_growth,ratio_2
+M4 Forecasting Competition Sampled Daily Series Ratio 2x,m4_daily_miscellaneous_ratio_2,DAILY,28,m4_daily_miscellaneous,ratio_2
+M4 Forecasting Competition Sampled Hourly Series Ratio 2x,m4_hourly_miscellaneous_ratio_2,HOURLY,72,m4_hourly_miscellaneous,ratio_2
+M4 Forecasting Competition Sampled Monthly Series Ratio 2x,m4_monthly_miscellaneous_ratio_2,MONTHLY,12,m4_monthly_miscellaneous,ratio_2
+M4 Forecasting Competition Sampled Quarterly Series Ratio 2x,m4_quarterly_miscellaneous_ratio_2,QUARTERLY,8,m4_quarterly_miscellaneous,ratio_2
+M4 Forecasting Competition Sampled Yearly Series Ratio 2x,m4_yearly_miscellaneous_ratio_2,YEARLY,3,m4_yearly_miscellaneous,ratio_2
+Online Retail Sales Ratio 2x,online_retail_sales_ratio_2,DAILY,28,online_retail_sales,ratio_2
+PJM Hourly Energy Consumption Ratio 2x,pjm_energy_consumption_ratio_2,HOURLY,72,pjm_energy_consumption,ratio_2
+Seattle Burke Gilman Trail Ratio 2x,seattle_burke_gilman_trail_ratio_2,HOURLY,72,seattle_burke_gilman_trail,ratio_2
+Sunspots Ratio 2x,sunspots_quarterly_ratio_2,QUARTERLY,8,sunspots_quarterly,ratio_2
+Theme Park Attendance Ratio 2x,theme_park_attendance_ratio_2,DAILY,28,theme_park_attendance,ratio_2
+Air Quality KDD 2018 Ratio 4x,air_quality_kdd_2018_ratio_4,HOURLY,72,air_quality_kdd_2018,ratio_4
+Airline Passengers Ratio 4x,airline_passengers_ratio_4,MONTHLY,12,airline_passengers,ratio_4
+Atmospheric CO2 Concentrations Ratio 4x,atmospheric_co2_concentrations_ratio_4,MONTHLY,12,atmospheric_co2_concentrations,ratio_4
+Australian Beer Production Ratio 4x,australian_beer_production_ratio_4,QUARTERLY,8,australian_beer_production,ratio_4
+Avocado Sales Ratio 4x,avocado_sales_ratio_4,WEEKLY,13,avocado_sales,ratio_4
+Bank Branch Transactions Ratio 4x,bank_branch_transactions_ratio_4,WEEKLY,13,bank_branch_transactions,ratio_4
+Climate Related Disasters Frequency Ratio 4x,climate_related_disasters_ratio_4,YEARLY,3,climate_related_disasters,ratio_4
+Daily Stock Prices  Ratio 4x,daily_stock_prices_ratio_4,DAILY,28,daily_stock_prices,ratio_4
+Weekly Weather in 26 World Cities Ratio 4x,weekly_weather_ratio_4,WEEKLY,13,weekly_weather,ratio_4
+GDP per Capita Change Ratio 4x,gdp_per_capita_growth_ratio_4,YEARLY,3,gdp_per_capita_growth,ratio_4
+M4 Forecasting Competition Sampled Daily Series Ratio 4x,m4_daily_miscellaneous_ratio_4,DAILY,28,m4_daily_miscellaneous,ratio_4
+M4 Forecasting Competition Sampled Hourly Series Ratio 4x,m4_hourly_miscellaneous_ratio_4,HOURLY,72,m4_hourly_miscellaneous,ratio_4
+M4 Forecasting Competition Sampled Monthly Series Ratio 4x,m4_monthly_miscellaneous_ratio_4,MONTHLY,12,m4_monthly_miscellaneous,ratio_4
+M4 Forecasting Competition Sampled Quarterly Series Ratio 4x,m4_quarterly_miscellaneous_ratio_4,QUARTERLY,8,m4_quarterly_miscellaneous,ratio_4
+M4 Forecasting Competition Sampled Yearly Series Ratio 4x,m4_yearly_miscellaneous_ratio_4,YEARLY,3,m4_yearly_miscellaneous,ratio_4
+Online Retail Sales Ratio 4x,online_retail_sales_ratio_4,DAILY,28,online_retail_sales,ratio_4
+PJM Hourly Energy Consumption Ratio 4x,pjm_energy_consumption_ratio_4,HOURLY,72,pjm_energy_consumption,ratio_4
+Seattle Burke Gilman Trail Ratio 4x,seattle_burke_gilman_trail_ratio_4,HOURLY,72,seattle_burke_gilman_trail,ratio_4
+Sunspots Ratio 4x,sunspots_quarterly_ratio_4,QUARTERLY,8,sunspots_quarterly,ratio_4
+Theme Park Attendance Ratio 4x,theme_park_attendance_ratio_4,DAILY,28,theme_park_attendance,ratio_4
+Air Quality KDD 2018 Ratio 6x,air_quality_kdd_2018_ratio_6,HOURLY,72,air_quality_kdd_2018,ratio_6
+Airline Passengers Ratio 6x,airline_passengers_ratio_6,MONTHLY,12,airline_passengers,ratio_6
+Atmospheric CO2 Concentrations Ratio 6x,atmospheric_co2_concentrations_ratio_6,MONTHLY,12,atmospheric_co2_concentrations,ratio_6
+Australian Beer Production Ratio 6x,australian_beer_production_ratio_6,QUARTERLY,8,australian_beer_production,ratio_6
+Avocado Sales Ratio 6x,avocado_sales_ratio_6,WEEKLY,13,avocado_sales,ratio_6
+Bank Branch Transactions Ratio 6x,bank_branch_transactions_ratio_6,WEEKLY,13,bank_branch_transactions,ratio_6
+Climate Related Disasters Frequency Ratio 6x,climate_related_disasters_ratio_6,YEARLY,3,climate_related_disasters,ratio_6
+Daily Stock Prices  Ratio 6x,daily_stock_prices_ratio_6,DAILY,28,daily_stock_prices,ratio_6
+Weekly Weather in 26 World Cities Ratio 6x,weekly_weather_ratio_6,WEEKLY,13,weekly_weather,ratio_6
+GDP per Capita Change Ratio 6x,gdp_per_capita_growth_ratio_6,YEARLY,3,gdp_per_capita_growth,ratio_6
+M4 Forecasting Competition Sampled Daily Series Ratio 6x,m4_daily_miscellaneous_ratio_6,DAILY,28,m4_daily_miscellaneous,ratio_6
+M4 Forecasting Competition Sampled Hourly Series Ratio 6x,m4_hourly_miscellaneous_ratio_6,HOURLY,72,m4_hourly_miscellaneous,ratio_6
+M4 Forecasting Competition Sampled Monthly Series Ratio 6x,m4_monthly_miscellaneous_ratio_6,MONTHLY,12,m4_monthly_miscellaneous,ratio_6
+M4 Forecasting Competition Sampled Quarterly Series Ratio 6x,m4_quarterly_miscellaneous_ratio_6,QUARTERLY,8,m4_quarterly_miscellaneous,ratio_6
+M4 Forecasting Competition Sampled Yearly Series Ratio 6x,m4_yearly_miscellaneous_ratio_6,YEARLY,3,m4_yearly_miscellaneous,ratio_6
+Online Retail Sales Ratio 6x,online_retail_sales_ratio_6,DAILY,28,online_retail_sales,ratio_6
+PJM Hourly Energy Consumption Ratio 6x,pjm_energy_consumption_ratio_6,HOURLY,72,pjm_energy_consumption,ratio_6
+Seattle Burke Gilman Trail Ratio 6x,seattle_burke_gilman_trail_ratio_6,HOURLY,72,seattle_burke_gilman_trail,ratio_6
+Sunspots Ratio 6x,sunspots_quarterly_ratio_6,QUARTERLY,8,sunspots_quarterly,ratio_6
+Theme Park Attendance Ratio 6x,theme_park_attendance_ratio_6,DAILY,28,theme_park_attendance,ratio_6
+Air Quality KDD 2018 Ratio 8x,air_quality_kdd_2018_ratio_8,HOURLY,72,air_quality_kdd_2018,ratio_8
+Airline Passengers Ratio 8x,airline_passengers_ratio_8,MONTHLY,12,airline_passengers,ratio_8
+Atmospheric CO2 Concentrations Ratio 8x,atmospheric_co2_concentrations_ratio_8,MONTHLY,12,atmospheric_co2_concentrations,ratio_8
+Australian Beer Production Ratio 8x,australian_beer_production_ratio_8,QUARTERLY,8,australian_beer_production,ratio_8
+Avocado Sales Ratio 8x,avocado_sales_ratio_8,WEEKLY,13,avocado_sales,ratio_8
+Bank Branch Transactions Ratio 8x,bank_branch_transactions_ratio_8,WEEKLY,13,bank_branch_transactions,ratio_8
+Climate Related Disasters Frequency Ratio 8x,climate_related_disasters_ratio_8,YEARLY,3,climate_related_disasters,ratio_8
+Daily Stock Prices  Ratio 8x,daily_stock_prices_ratio_8,DAILY,28,daily_stock_prices,ratio_8
+Weekly Weather in 26 World Cities Ratio 8x,weekly_weather_ratio_8,WEEKLY,13,weekly_weather,ratio_8
+GDP per Capita Change Ratio 8x,gdp_per_capita_growth_ratio_8,YEARLY,3,gdp_per_capita_growth,ratio_8
+M4 Forecasting Competition Sampled Daily Series Ratio 8x,m4_daily_miscellaneous_ratio_8,DAILY,28,m4_daily_miscellaneous,ratio_8
+M4 Forecasting Competition Sampled Hourly Series Ratio 8x,m4_hourly_miscellaneous_ratio_8,HOURLY,72,m4_hourly_miscellaneous,ratio_8
+M4 Forecasting Competition Sampled Monthly Series Ratio 8x,m4_monthly_miscellaneous_ratio_8,MONTHLY,12,m4_monthly_miscellaneous,ratio_8
+M4 Forecasting Competition Sampled Quarterly Series Ratio 8x,m4_quarterly_miscellaneous_ratio_8,QUARTERLY,8,m4_quarterly_miscellaneous,ratio_8
+M4 Forecasting Competition Sampled Yearly Series Ratio 8x,m4_yearly_miscellaneous_ratio_8,YEARLY,3,m4_yearly_miscellaneous,ratio_8
+Online Retail Sales Ratio 8x,online_retail_sales_ratio_8,DAILY,28,online_retail_sales,ratio_8
+PJM Hourly Energy Consumption Ratio 8x,pjm_energy_consumption_ratio_8,HOURLY,72,pjm_energy_consumption,ratio_8
+Seattle Burke Gilman Trail Ratio 8x,seattle_burke_gilman_trail_ratio_8,HOURLY,72,seattle_burke_gilman_trail,ratio_8
+Sunspots Ratio 8x,sunspots_quarterly_ratio_8,QUARTERLY,8,sunspots_quarterly,ratio_8
+Theme Park Attendance Ratio 8x,theme_park_attendance_ratio_8,DAILY,28,theme_park_attendance,ratio_8
+Air Quality KDD 2018 Ratio 10x,air_quality_kdd_2018_ratio_10,HOURLY,72,air_quality_kdd_2018,ratio_10
+Airline Passengers Ratio 10x,airline_passengers_ratio_10,MONTHLY,12,airline_passengers,ratio_10
+Atmospheric CO2 Concentrations Ratio 10x,atmospheric_co2_concentrations_ratio_10,MONTHLY,12,atmospheric_co2_concentrations,ratio_10
+Australian Beer Production Ratio 10x,australian_beer_production_ratio_10,QUARTERLY,8,australian_beer_production,ratio_10
+Avocado Sales Ratio 10x,avocado_sales_ratio_10,WEEKLY,13,avocado_sales,ratio_10
+Bank Branch Transactions Ratio 10x,bank_branch_transactions_ratio_10,WEEKLY,13,bank_branch_transactions,ratio_10
+Climate Related Disasters Frequency Ratio 10x,climate_related_disasters_ratio_10,YEARLY,3,climate_related_disasters,ratio_10
+Daily Stock Prices  Ratio 10x,daily_stock_prices_ratio_10,DAILY,28,daily_stock_prices,ratio_10
+Weekly Weather in 26 World Cities Ratio 10x,weekly_weather_ratio_10,WEEKLY,13,weekly_weather,ratio_10
+GDP per Capita Change Ratio 10x,gdp_per_capita_growth_ratio_10,YEARLY,3,gdp_per_capita_growth,ratio_10
+M4 Forecasting Competition Sampled Daily Series Ratio 10x,m4_daily_miscellaneous_ratio_10,DAILY,28,m4_daily_miscellaneous,ratio_10
+M4 Forecasting Competition Sampled Hourly Series Ratio 10x,m4_hourly_miscellaneous_ratio_10,HOURLY,72,m4_hourly_miscellaneous,ratio_10
+M4 Forecasting Competition Sampled Monthly Series Ratio 10x,m4_monthly_miscellaneous_ratio_10,MONTHLY,12,m4_monthly_miscellaneous,ratio_10
+M4 Forecasting Competition Sampled Quarterly Series Ratio 10x,m4_quarterly_miscellaneous_ratio_10,QUARTERLY,8,m4_quarterly_miscellaneous,ratio_10
+M4 Forecasting Competition Sampled Yearly Series Ratio 10x,m4_yearly_miscellaneous_ratio_10,YEARLY,3,m4_yearly_miscellaneous,ratio_10
+Online Retail Sales Ratio 10x,online_retail_sales_ratio_10,DAILY,28,online_retail_sales,ratio_10
+PJM Hourly Energy Consumption Ratio 10x,pjm_energy_consumption_ratio_10,HOURLY,72,pjm_energy_consumption,ratio_10
+Seattle Burke Gilman Trail Ratio 10x,seattle_burke_gilman_trail_ratio_10,HOURLY,72,seattle_burke_gilman_trail,ratio_10
+Sunspots Ratio 10x,sunspots_quarterly_ratio_10,QUARTERLY,8,sunspots_quarterly,ratio_10
+Theme Park Attendance Ratio 10x,theme_park_attendance_ratio_10,DAILY,28,theme_park_attendance,ratio_10
+Air Quality KDD 2018 Max Ratio,air_quality_kdd_2018_ratio_max,HOURLY,72,air_quality_kdd_2018,ratio_max
+Airline Passengers Max Ratio,airline_passengers_ratio_max,MONTHLY,12,airline_passengers,ratio_max
+Atmospheric CO2 Concentrations Max Ratio,atmospheric_co2_concentrations_ratio_max,MONTHLY,12,atmospheric_co2_concentrations,ratio_max
+Australian Beer Production Max Ratio,australian_beer_production_ratio_max,QUARTERLY,8,australian_beer_production,ratio_max
+Avocado Sales Max Ratio,avocado_sales_ratio_max,WEEKLY,13,avocado_sales,ratio_max
+Bank Branch Transactions Max Ratio,bank_branch_transactions_ratio_max,WEEKLY,13,bank_branch_transactions,ratio_max
+Climate Related Disasters Frequency Max Ratio,climate_related_disasters_ratio_max,YEARLY,3,climate_related_disasters,ratio_max
+Daily Stock Prices  Max Ratio,daily_stock_prices_ratio_max,DAILY,28,daily_stock_prices,ratio_max
+Weekly Weather in 26 World Cities Max Ratio,weekly_weather_ratio_max,WEEKLY,13,weekly_weather,ratio_max
+GDP per Capita Change Max Ratio,gdp_per_capita_growth_ratio_max,YEARLY,3,gdp_per_capita_growth,ratio_max
+M4 Forecasting Competition Sampled Daily Series Max Ratio,m4_daily_miscellaneous_ratio_max,DAILY,28,m4_daily_miscellaneous,ratio_max
+M4 Forecasting Competition Sampled Hourly Series Max Ratio,m4_hourly_miscellaneous_ratio_max,HOURLY,72,m4_hourly_miscellaneous,ratio_max
+M4 Forecasting Competition Sampled Monthly Series Max Ratio,m4_monthly_miscellaneous_ratio_max,MONTHLY,12,m4_monthly_miscellaneous,ratio_max
+M4 Forecasting Competition Sampled Quarterly Series Max Ratio,m4_quarterly_miscellaneous_ratio_max,QUARTERLY,8,m4_quarterly_miscellaneous,ratio_max
+M4 Forecasting Competition Sampled Yearly Series Max Ratio,m4_yearly_miscellaneous_ratio_max,YEARLY,3,m4_yearly_miscellaneous,ratio_max
+Online Retail Sales Max Ratio,online_retail_sales_ratio_max,DAILY,28,online_retail_sales,ratio_max
+PJM Hourly Energy Consumption Max Ratio,pjm_energy_consumption_ratio_max,HOURLY,72,pjm_energy_consumption,ratio_max
+Seattle Burke Gilman Trail Max Ratio,seattle_burke_gilman_trail_ratio_max,HOURLY,72,seattle_burke_gilman_trail,ratio_max
+Sunspots Max Ratio,sunspots_quarterly_ratio_max,QUARTERLY,8,sunspots_quarterly,ratio_max
+Theme Park Attendance Max Ratio,theme_park_attendance_ratio_max,DAILY,28,theme_park_attendance,ratio_max

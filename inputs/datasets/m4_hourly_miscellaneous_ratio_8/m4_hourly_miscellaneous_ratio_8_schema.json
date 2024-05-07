@@ -1,0 +1,29 @@
+{
+  "title": "M4 Forecasting Competition Sampled Hourly Series Ratio 8x",
+  "description": "This is a variation of the M4 Forecasting Competition Sampled Hourly Series dataset. It is filtered to limit the history to be 8x the forecast length which is 72 time steps. This dataset is a curated collection of 35 unique hourly time series, each with a length of 748 data points, sampled from the diverse and comprehensive series presented in the M4 forecasting competition. Encompassing a range of domains including finance, retail, and energy, these uni-variate series are selected for their variety and the richness they offer to hourly frequency forecasting tasks, despite originating from non-uniform time windows.",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "HOURLY",
+  "forecastLength": 72,
+  "idField": {
+    "name": "series",
+    "description": "Unique idenfier for the series."
+  },
+  "timeField": {
+    "name": "hour_num",
+    "description": "Hour number of measurement.",
+    "dataType": "INT",
+    "example": 9
+  },
+  "forecastTarget": {
+    "name": "value",
+    "description": "Target variable for forecasting.",
+    "dataType": "NUMERIC",
+    "example": 12.7
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

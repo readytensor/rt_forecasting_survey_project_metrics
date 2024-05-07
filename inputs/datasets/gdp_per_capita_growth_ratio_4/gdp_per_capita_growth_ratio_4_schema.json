@@ -1,0 +1,29 @@
+{
+  "title": "GDP per Capita Change Ratio 4x",
+  "description": "This is a variation of the GDP per Capita Change dataset. It is filtered to limit the history to be 4x the forecast length which is 3 time steps. This dataset detailing GDP per Capita change from 1961 to 2019 for 89 countries provides a comprehensive look at economic growth and contraction over nearly six decades. Sourced from the World Bank, a reputable authority in global economic data, this dataset offers annual percentage changes in Gross Domestic Product (GDP) for a wide range of countries, reflecting the economic performance of each nation over time. The dataset's extended timeframe and broad coverage make it an invaluable tool for testing various time series forecasting models, offering insights into cyclical patterns, long-term trends, and potential future trajectories of economies.",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "YEARLY",
+  "forecastLength": 3,
+  "idField": {
+    "name": "Country Name",
+    "description": "Country name - unique identifier for the series"
+  },
+  "timeField": {
+    "name": "Year",
+    "description": "Date representing the year of observation",
+    "dataType": "DATE",
+    "example": "1961-01-01"
+  },
+  "forecastTarget": {
+    "name": "GDP per Capita Growth",
+    "description": "Target series - GDP per capital change in percentage from previous year",
+    "dataType": "NUMERIC",
+    "example": -15.127218311281
+  },
+  "pastCovariates": [],
+  "futureCovariates": [],
+  "staticCovariates": []
+}

@@ -1,0 +1,139 @@
+{
+  "title": "Weekly Weather in 26 World Cities Max Ratio",
+  "description": "This dataset spans 3 years and includes weekly weather measurements for 26 cities worldwide. It comprises 17 weather parameters, making it suitable for both multi-variate and single-series forecasting tasks. With data from January 2020 to December 2022, it's an ideal resource for forecasting the 'temperature' series while leveraging other weather measurements as potential exogenous factors.",
+  "modelCategory": "forecasting",
+  "schemaVersion": 1.0,
+  "inputDataFormat": "CSV",
+  "encoding": "utf-8",
+  "frequency": "WEEKLY",
+  "forecastLength": 13,
+  "idField": {
+    "name": "location",
+    "description": "City of the series."
+  },
+  "timeField": {
+    "name": "date",
+    "description": "Date of the weather observation.",
+    "dataType": "DATE",
+    "example": "2020-01-15"
+  },
+  "forecastTarget": {
+    "name": "maxtemp",
+    "description": "Target variable; Maximum temperature for the day in Celcius.",
+    "dataType": "NUMERIC",
+    "example": 36
+  },
+  "pastCovariates": [
+    {
+      "name": "mintemp",
+      "description": "Minimum temperature for the day in Celcius",
+      "dataType": "NUMERIC",
+      "example": 26
+    },
+    {
+      "name": "avgtemp",
+      "description": "Average temperature for the day in Celcius",
+      "dataType": "NUMERIC",
+      "example": 30.285714285714285
+    },
+    {
+      "name": "sunhour",
+      "description": "Duration between sunrise and sunset in hours",
+      "dataType": "NUMERIC",
+      "example": 10.985714285714284
+    },
+    {
+      "name": "uv_index",
+      "description": "UV Index",
+      "dataType": "NUMERIC",
+      "example": 7.285714285714286
+    },
+    {
+      "name": "wind_speed",
+      "description": "Maximum wind speed in kilometers per hour",
+      "dataType": "NUMERIC",
+      "example": 8.0
+    },
+    {
+      "name": "wind_degree",
+      "description": "Wind direction in degrees",
+      "dataType": "NUMERIC",
+      "example": 181.7142857142857
+    },
+    {
+      "name": "precip",
+      "description": "Precipitation amount in millimeters",
+      "dataType": "NUMERIC",
+      "example": 1.0
+    },
+    {
+      "name": "humidity",
+      "description": "Humidity as percentage",
+      "dataType": "NUMERIC",
+      "example": 49.42857142857143
+    },
+    {
+      "name": "visibility",
+      "description": "Average visibility in km",
+      "dataType": "NUMERIC",
+      "example": 10.0
+    },
+    {
+      "name": "pressure",
+      "description": "Pressure in millibars",
+      "dataType": "NUMERIC",
+      "example": 1009.5714285714286
+    },
+    {
+      "name": "cloudcover",
+      "description": "Cloud cover as percentage",
+      "dataType": "NUMERIC",
+      "example": 21.857142857142858
+    },
+    {
+      "name": "heatindex",
+      "description": "Heat index in celcius",
+      "dataType": "NUMERIC",
+      "example": 33.42857142857143
+    },
+    {
+      "name": "dewpoint",
+      "description": "Dew point in celcius",
+      "dataType": "NUMERIC",
+      "example": 20.857142857142858
+    },
+    {
+      "name": "windchill",
+      "description": "Windchill temperature in celcius",
+      "dataType": "NUMERIC",
+      "example": 30.285714285714285
+    },
+    {
+      "name": "windgust",
+      "description": "Wind gust in kmph",
+      "dataType": "NUMERIC",
+      "example": 12.285714285714286
+    },
+    {
+      "name": "feelslike",
+      "description": "Feels like in Celcius",
+      "dataType": "NUMERIC",
+      "example": 33.42857142857143
+    }
+  ],
+  "futureCovariates": [],
+  "staticCovariates": [
+    {
+      "name": "in_northern_hemisphere",
+      "description": "Whether the city is in northern hemisphere. This is a static covariate.",
+      "dataType": "NUMERIC",
+      "example": 1.0
+    },
+    {
+      "name": "in_southern_hemisphere",
+      "description": "Whether the city is in southern hemisphere. This is a static covariate.",
+      "dataType": "NUMERIC",
+      "example": 0.0
+    }
+  ]
+}

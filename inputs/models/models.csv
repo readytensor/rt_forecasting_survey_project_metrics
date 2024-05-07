@@ -1,0 +1,46 @@
+model_name,model_id,category
+Naive Seasonal Forecaster in Darts,rt_forecasting_darts_naive_seasonal,naïve (baseline)
+Naive Drift Forecaster in Darts,rt_forecasting_darts_naive_drift,naïve (baseline)
+Naive Recent Window Mean Forecaster in Darts,rt_forecasting_darts_naive_recent_window_mean,naïve (baseline)
+Naive Moving Average Forecaster in Darts,rt_forecasting_darts_naive_moving_average,naïve (baseline)
+Double Exponential Smoothing Forecaster in NumPy,rt_forecasting_single_exponential_smoothing_numpy,statistical
+Single Exponential Smoothing Forecaster in NumPy,rt_forecasting_double_exponential_smoothing_numpy,statistical
+AutoARIMA Forecaster in Darts,rt_forecasting_darts_autoarima,statistical
+BATS Forecaster in Darts,rt_forecasting_darts_bats,statistical
+FourTheta Forecaster in Darts,rt_forecasting_darts_fourtheta,statistical
+Theta Forecaster in Darts,rt_forecasting_darts_theta,statistical
+TBATS Forecaster in Darts,rt_forecasting_darts_tbats,statistical
+Facebook Prophet Forecaster,rt_forecasting_prophet,statistical / machine-learning
+DLinear Forecaster in GluonTS,rt_forecasting_gluonts_d_linear,statistical / machine-learning
+Support Vector Forecaster in MLForecast,rt_forecasting_mlforecast_svr,machine-learning
+K Nearest Neighbors Forecaster in MLForecast,rt_forecasting_mlforecast_knn,machine-learning
+Adaboost Forecaster in Skforecast,rt_forecasting_skforecast_adaboost,machine-learning
+Catboost Forecaster in Darts,rt_forecasting_darts_catboost,machine-learning
+LightGBM Forecaster in MLForecast,rt_forecasting_mlforecast_lightgbm,machine-learning
+Gradient Boosting Forecaster in Skforecast,rt_forecasting_skforecast_gradientboosting,machine-learning
+ElasticNet Forecaster in MLForecast,rt_forecasting_mlforecast_elasticnet,machine-learning
+XGBoost Forecasting Model in Scikit-Learn,rt_forecasting_xgb,machine-learning
+Voting Forecaster in MLForecast,rt_forecasting_mlforecast_voting,machine-learning
+Ridge Forecaster in Skforecast,rt_forecasting_skforecast_ridge,machine-learning
+Random Forest Forecasting Model in Scikit-Learn,rt_forecasting_random_forest_sklearn,machine-learning
+Extra Trees Forecasting Model in Scikit-Learn,rt_forecasting_extra_trees_sklearn,machine-learning
+LagTST Forecaster in GluonTS,rt_forecasting_gluonts_lag_tst,neural network
+Transformer Forecaster in Darts,rt_forecasting_darts_transformer_model,neural network
+Autoformer Forecaster in NeuralForecast,rt_forecasting_neuralforecast_autoformer,neural network
+Time-series Dense Encoder Forecaster in Darts,rt_forecasting_darts_tide,neural network
+Neural Prophet Forecaster,rt_forecasting_neural_prophet,neural network
+TCN Forecaster in NeuralForecast,rt_forecasting_neuralforecast_tcn,neural network
+Informer Forecaster in NeuralForecast,rt_forecasting_neuralforecast_informer,neural network
+TSMixer Forecaster,rt_forecasting_tsmixer,neural network
+NHiTS Forecaster in NeuralForecast,rt_forecasting_neuralforecast_nhits,neural network
+RNN forecaster using PyTorch,rt_forecasting_rnn_pytorch,neural network
+PatchMixer Forecaster,rt_forecasting_patch_mixer,neural network
+Temporal Fusion Transformer Forecaster in GluonTS,rt_forecasting_gluonts_tft,neural network
+DeepAR Forecaster in GluonTS,rt_forecasting_gluonts_deep_ar,neural network
+CNN forecaster using PyTorch,rt_forecasting_cnn_pytorch,neural network
+MLP Forecaster in NeuralForecast,rt_forecasting_neuralforecast_mlp,neural network
+PatchTST Forecaster in GluonTS,rt_forecasting_gluonts_patch_tst,neural network
+Variational Encoder Forecasting Model,rt_forecasting_var_enc_fcst,neural network
+NBeats Forecaster using TensorFlow,rt_forecasting_nbeats,neural network
+Amazon Chronos-T5-Large Forecasting Model,rt_forecasting_amazon_chronos,foundational model
+Moirai Large Forecaster,rt_forecasting_moirai,foundational model
