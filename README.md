@@ -22,7 +22,8 @@ There are scripts provided to analyze the data as follows:
 ## Usage
 
 1. Create virtual environment and install dependencies in `requirements.txt`.
-2. Run the script `src/main.py` to calculate the forecasting metrics. This will create the file `accuracy_scores.csv` containing the forecasting metrics for each model and dataset.
+2. Calculate accuracy metrics: Run the script `src/main.py` to calculate the forecasting metrics. This will create the file `accuracy_scores.csv` containing the forecasting metrics for each model and dataset in the `outputs/` folder .
+3. Extract execution times and CPU/GPU memory usage: _This part is TBD_.
 
 ## License
 
